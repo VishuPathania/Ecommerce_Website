@@ -1,0 +1,10 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    /* You can also use other values for justify-content like space-around or space-evenly */
+    margin: 10px; /* Adjust this value to control the space between buttons */
+  }
+  
+  .button {
+    padding: 10px 20px; /* Adjust padding as needed for your design */
+  }
